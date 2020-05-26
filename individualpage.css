@@ -122,13 +122,17 @@ a img:hover {
 @media screen and (max-width: 768px) {
     .project-info {
         padding-right: 30pt;
-        padding-top: 50pt;
+        padding-top: 20pt;
         padding-left: 30pt;
     }
     .container-3 {
         padding-top: 20pt;
         padding-left: 0;
         padding-right: 0
+    }
+    .main-image {
+        padding: 10px;
+        padding-top: 30px;
     }
 }
 
