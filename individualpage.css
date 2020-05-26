@@ -110,6 +110,7 @@ a img:hover {
 .profile_picture {
     width: 150px;
     height: 150px;
+    padding-right: 10px;
 }
 
 .main-image {
